@@ -1,0 +1,1 @@
+var = "This is not a drill\nIt is my actually first django tryout."
